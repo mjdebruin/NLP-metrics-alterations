@@ -1,5 +1,5 @@
 # Text Simplification Evaluation Framework
-This repository contains a  framework for evaluating text simplification systems using multiple evaluation metrics, from traditional approaches like BLEU to modern LLM-based assessment methods.
+This repository contains a  framework that evaluates text simplification metrics and their ability to detect meaning-altering changes. It tests whether metrics can distinguish between valid simplifications and various types of alterations like fact reversals, information omission, and meaning changes.
 
 ## Overview
 The framework implements and compares various evaluation metrics for text simplification:
