@@ -1,0 +1,8 @@
+pandas==2.2.1
+nltk==3.8.1
+numpy==1.26.4
+bert-score==0.3.13
+BLEURT==0.0.2
+textstat==0.7.4
+transformers==4.48.1
+openai==1.13.3
